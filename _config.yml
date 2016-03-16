@@ -1,4 +1,4 @@
-name: Hello World
+name: exulansis theory
 favicon: null
 layout_spectrum: 0.00992
 typography_spectrum: 0.45463
@@ -22,8 +22,8 @@ color:
     - '#947a7d'
     - '#e5d0cb'
     - '#272530'
-  brandStrength: 0.875
+  brandStrength: 0.6875
   lightness: 0.5
-  saturation: 0
+  saturation: 0.1875
   rhythmicContrast: 0
 purpose: []
