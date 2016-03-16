@@ -1,41 +1,41 @@
-name: exulansis theory
-favicon: null
-layout_spectrum: 0.33723
-typography_spectrum: 0.59319
 title: exulansis theory
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.4731183
+  brandStrength: 0.6875
+  lightness: 0.5
   brandColors:
     - '#070707'
     - '#cae4fd'
     - '#9ab5e0'
     - '#7b89a4'
     - '#4f565e'
-  brandStrength: 0.6875
-  lightness: 0.5
-  saturation: 0.375
-  rhythmicContrast: 0
-purpose: []
+  rhythmicContrast: 0.5967742
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: exulansis theory
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.59319
+layout_spectrum: 0.09498208
