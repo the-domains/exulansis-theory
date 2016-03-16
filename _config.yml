@@ -1,7 +1,7 @@
 name: exulansis theory
 favicon: null
-layout_spectrum: 0.6825168337672949
-typography_spectrum: 0.7822300044354051
+layout_spectrum: 0.00992
+typography_spectrum: 0.45463
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.7326867852825671
-  lightness: 0.45858553424477577
-  saturation: 0.261728955199942
-  rhythmicContrast: 0.9152320609427989
+    - '#010101'
+    - '#fefefe'
+    - '#947a7d'
+    - '#e5d0cb'
+    - '#272530'
+  brandStrength: 0.875
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
